@@ -1,0 +1,13 @@
+E:\calcular\calcular\bin\Debug\calcular.exe.config
+D:\PROGRAMAS\DOC\calcular\calcular\bin\Debug\calcular.exe.config
+D:\PROGRAMAS\DOC\calcular\calcular\bin\Debug\calcular.exe
+D:\PROGRAMAS\DOC\calcular\calcular\bin\Debug\calcular.pdb
+D:\PROGRAMAS\DOC\calcular\calcular\bin\Debug\calcular.xml
+D:\PROGRAMAS\DOC\calcular\calcular\obj\Debug\calcular.vbproj.AssemblyReference.cache
+D:\PROGRAMAS\DOC\calcular\calcular\obj\Debug\WindowsApplication1.Form1.resources
+D:\PROGRAMAS\DOC\calcular\calcular\obj\Debug\WindowsApplication1.Resources.resources
+D:\PROGRAMAS\DOC\calcular\calcular\obj\Debug\calcular.vbproj.GenerateResource.cache
+D:\PROGRAMAS\DOC\calcular\calcular\obj\Debug\calcular.vbproj.CoreCompileInputs.cache
+D:\PROGRAMAS\DOC\calcular\calcular\obj\Debug\calcular.exe
+D:\PROGRAMAS\DOC\calcular\calcular\obj\Debug\calcular.xml
+D:\PROGRAMAS\DOC\calcular\calcular\obj\Debug\calcular.pdb
